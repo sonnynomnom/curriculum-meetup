@@ -8,7 +8,7 @@
 
 
 - [ ] Discussion on Why's Guide to Ruby (pt 1-6)
-- [ ] The C Programming Language (pg 1-65)
-- [ ] Split into teams and Work on a piece How to make a cake and improve
-- [ ] Write something and share
-- [ ] Grmercy Typewriter Co (famijly business) offers an in-office demonstration of the typewriter
+- [ ] Discussion on The C Programming Language (pg 1-65)
+- [ ] Split into teams and update on a writing piece "How to make a pastry" "How to ride a bicycle" "How to solve Google interview question"
+- [ ] Gramercy Typewriter Co (famijly business) offers an in-office demonstration of the typewriter
+- [ ] Write a Medium post
